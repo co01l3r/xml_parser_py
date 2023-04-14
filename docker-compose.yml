@@ -1,0 +1,11 @@
+version: "3"
+services:
+  myapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./scripts:/app/scripts
+      - ./astra_export_xml.zip:/app/astra_export_xml.zip
+    tty: true
+

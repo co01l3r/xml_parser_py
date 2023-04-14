@@ -1,5 +1,5 @@
 # Archived XML parser
-![GitHub last commit](https://img.shields.io/github/last-commit/co01l3r/xmll_parser_py)
+![GitHub last commit](https://img.shields.io/github/last-commit/co01l3r/xml_parser_py)
 
 Python script with functionality to count the number of products, show the list of available products, and show
 the list of spare parts for the products in an XML file contained within a zip archive. The user is prompted to
